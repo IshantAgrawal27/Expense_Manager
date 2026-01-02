@@ -16,8 +16,8 @@ I built this tool to solve that specific problem using **Persistent Data Storage
 
 ## 📸 Demo
 
-*(Add your terminal screenshot here)*
-![Expense Manager Screenshot](Link_to_your_screenshot_image_a86529.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/698dc7a4-e1a6-4104-8efc-8fa4a5e11035" />
+
 
 ## 🚀 Key Features
 
